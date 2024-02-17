@@ -11,10 +11,10 @@ ___📋 Requirements :___
 ## 💻 Usage
 
 Clone this repository or download and extract the script file
+Open the terminal and navigate to the script directory.
 ```
 git clone https://github.com/TadashiJei/Lucy.git
 ```
-Open the terminal and navigate to the script directory.
 Run the script with the following command:
 
     ./lucy_installer.sh
